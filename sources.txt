@@ -1,0 +1,33 @@
+Public articles connected to the topic (answers the question if this project has its purpose and/or use - highlights its importance)
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5937544/
+Tracy M, Cerdá M, Keyes KM. **Agent-Based Modeling in Public Health: Current Applications and Future Directions**. Annu Rev Public Health. 2018 Apr 1;39:77-94. doi: 10.1146/annurev-publhealth-040617-014317. Epub 2018 Jan 12. PMID: 29328870; PMCID: PMC5937544.
+ - discusses applications of agent-based models for simulating disease dynamics and evaluating public health strategies
+ 
+https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1337151/full
+Tucker J and Lorig F (2024) **Agent-based social simulations for health crises response: utilising the everyday digital health perspective**. Front. Public Health. 11:1337151. doi: 10.3389/fpubh.2023.1337151
+ - addresses the challenges of using agent-based social simulations in collaborative policy interventions during health crises like the COVID-19 pandemic, emphasizing the need for such simulation programs
+
+https://www.nature.com/articles/s41598-024-83238-1#Sec1
+Bosman, M., Cordon, Y., Duran-Sala, M. et al. **An agent based simulation of COVID-19 history in Catalonia using extensive real datasets**. Sci Rep 14, 31858 (2024). https://doi.org/10.1038/s41598-024-83238-1
+ - presents a comprehensive network model assessing the response to the COVID-19 outbreak, demonstrating the application of agent-based simulations in understanding disease dynamics
+
+https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005680
+Pittman KJ, Glover LC, Wang L, Ko DC (2016) **The Legacy of Past Pandemics: Common Human Mutations That Protect against Infectious Disease**. PLOS Pathogens 12(7): e1005680. https://doi.org/10.1371/journal.ppat.1005680 
+ - explores how certain human genetic differences regulate susceptibility and severity of infectious diseases, highlighting the evolutionary aspect of disease resistance
+
+https://www.nature.com/articles/s41598-024-63795-1#Abs1
+Nitzsche, C., Simm, S. **Agent-based modeling to estimate the impact of lockdown scenarios and events on a pandemic exemplified on SARS-CoV-2**. Sci Rep 14, 13391 (2024). https://doi.org/10.1038/s41598-024-63795-1
+ - uses an agent-based model to simulate the spread of SARS-CoV-2 in an abstract city model, assessing the impact of various lockdown scenarios
+ 
+https://arxiv.org/abs/2010.04452
+Cédric Colas, Boris Hejblum, Sébastien Rouillon, Rodolphe Thiébaut, Pierre-Yves Oudeyer, Clément Moulin-Frier, Mélanie Prague **EpidemiOptim: A Toolbox for the Optimization of Control Policies in Epidemiological Models** Journal of Artificial Intelligence Research, AI Access Foundation (2021) 
+ - uses RL and evolutionary algorithms to test intervention strategies in pandemic modeling
+ 
+https://www.mdpi.com/2227-7390/13/5/833
+Lin, Y.; Lin, F.; Cai, G.; Chen, H.; Zou, L.; Liu, Y.; Wu, P. **Evolutionary Reinforcement Learning: A Systematic Review and Future Directions**. Mathematics 2025, 13, 833. https://doi.org/10.3390/math13050833 
+ - surveys the use of evolutionary strategies to train reinforcement learning agents
+ 
+ 
+Other sources for self study
+https://arxiv.org/html/2402.13296v1
