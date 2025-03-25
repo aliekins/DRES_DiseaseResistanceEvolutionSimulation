@@ -31,3 +31,5 @@ Lin, Y.; Lin, F.; Cai, G.; Chen, H.; Zou, L.; Liu, Y.; Wu, P. **Evolutionary Rei
  
 Other sources for self study
 https://arxiv.org/html/2402.13296v1
+https://www.restack.io/p/csharp-unity-answer-agent-based-modeling-cat-ai#cm21dtw3v3remnwohxsud4dks
+
