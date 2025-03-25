@@ -502,7 +502,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="596ySrerEDE0G81WWoC6-138" value="«interface»" style="html=1;whiteSpace=wrap;strokeColor=#788AA3;fontFamily=Courier New;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#B2C9AB;" vertex="1" parent="596ySrerEDE0G81WWoC6-156">
-          <mxGeometry x="10" y="146" width="80" height="34" as="geometry" />
+          <mxGeometry x="10" y="146" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="596ySrerEDE0G81WWoC6-139" value="" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Courier New;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#D0CEE2;" vertex="1" parent="596ySrerEDE0G81WWoC6-156">
           <mxGeometry x="10" y="30" width="40" height="50" as="geometry" />
@@ -518,6 +518,9 @@
             <mxPoint x="10" y="94.68" as="sourcePoint" />
             <mxPoint x="40" y="94.68" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="596ySrerEDE0G81WWoC6-164" value="&amp;lt;&amp;lt;object&amp;gt;&amp;gt;" style="html=1;whiteSpace=wrap;strokeColor=#788AA3;fontFamily=Courier New;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#B5739D;" vertex="1" parent="596ySrerEDE0G81WWoC6-156">
+          <mxGeometry x="130" y="146" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="596ySrerEDE0G81WWoC6-157" value="" style="group;labelBackgroundColor=none;fontFamily=Courier New;fontColor=#000000;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="860" y="-160" width="430" height="214" as="geometry" />
